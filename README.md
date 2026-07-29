@@ -29,8 +29,17 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
 ## Backtracking
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0282-expression-add-operators) |
+## Design
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
