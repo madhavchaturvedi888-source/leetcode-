@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
