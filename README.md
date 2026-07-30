@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0012-integer-to-roman) |
+| [0258-add-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0282-expression-add-operators) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
