@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 ## Math
@@ -34,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0260-single-number-iii) |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0901-online-stock-span) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
