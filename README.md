@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 ## Math
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0146-lru-cache) |
 | [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
 | [0901-online-stock-span](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0901-online-stock-span) |
 ## Iterator
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
