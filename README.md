@@ -32,12 +32,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
@@ -64,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
