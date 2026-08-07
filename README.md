@@ -22,6 +22,7 @@
 | [0012-integer-to-roman](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 ## Linked List
@@ -98,4 +99,28 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
