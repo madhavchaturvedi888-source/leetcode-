@@ -41,6 +41,7 @@
 | [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
+| [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
+| [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
