@@ -9,6 +9,7 @@
 | [0141-linked-list-cycle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0282-expression-add-operators](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0306-additive-number) |
+| [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0016-3sum-closest](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0047-permutations-ii) |
+| [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -107,6 +110,7 @@
 | ------- |
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
