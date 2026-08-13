@@ -10,6 +10,7 @@
 | [0146-lru-cache](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0146-lru-cache) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0260-single-number-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -97,6 +99,7 @@
 | [0018-4sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0047-permutations-ii) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
