@@ -16,6 +16,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0241-different-ways-to-add-parentheses) |
@@ -186,6 +187,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
