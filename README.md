@@ -67,6 +67,7 @@
 | [0016-3sum-closest](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0047-permutations-ii) |
@@ -291,6 +292,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
 |  |
