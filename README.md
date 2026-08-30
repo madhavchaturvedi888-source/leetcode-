@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0125-valid-palindrome) |
@@ -61,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0018-4sum) |
@@ -326,4 +328,8 @@
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
