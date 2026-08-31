@@ -50,6 +50,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0146-lru-cache) |
 ## Two Pointers
@@ -60,6 +61,7 @@
 | [0018-4sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
