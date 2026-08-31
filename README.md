@@ -51,6 +51,7 @@
 | [0076-minimum-window-substring](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
@@ -245,6 +246,7 @@
 | [0053-maximum-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0132-palindrome-partitioning-ii) |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
