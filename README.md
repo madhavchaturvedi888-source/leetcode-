@@ -54,6 +54,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0086-partition-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 ## Array
 |  |
@@ -122,6 +124,7 @@
 | [0016-3sum-closest](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -253,6 +256,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Binary Indexed Tree
 |  |
@@ -352,6 +356,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
