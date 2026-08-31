@@ -13,6 +13,7 @@
 | [0149-max-points-on-a-line](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
@@ -110,6 +111,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0149-max-points-on-a-line) |
+| [0217-contains-duplicate](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0260-single-number-iii) |
@@ -152,6 +154,7 @@
 | [0018-4sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
