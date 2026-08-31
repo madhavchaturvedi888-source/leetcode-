@@ -12,6 +12,7 @@
 | [0146-lru-cache](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
@@ -48,6 +49,7 @@
 | [0076-minimum-window-substring](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0227-basic-calculator-ii) |
