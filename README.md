@@ -193,6 +193,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0227-basic-calculator-ii) |
@@ -371,10 +372,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
 |  |
@@ -383,6 +386,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Lifting
 |  |
