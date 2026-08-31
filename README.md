@@ -59,6 +59,7 @@
 | [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0445-add-two-numbers-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
