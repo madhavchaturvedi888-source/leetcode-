@@ -114,6 +114,7 @@
 | [0049-group-anagrams](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0149-max-points-on-a-line) |
@@ -140,6 +141,7 @@
 | [0039-combination-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0306-additive-number) |
@@ -180,6 +182,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
