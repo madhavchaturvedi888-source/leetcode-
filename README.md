@@ -123,6 +123,7 @@
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
@@ -299,6 +300,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -375,6 +377,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
 |  |
@@ -385,6 +388,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
