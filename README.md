@@ -117,6 +117,7 @@
 | [0064-minimum-path-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0149-max-points-on-a-line) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0224-basic-calculator) |
@@ -213,6 +215,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -224,6 +227,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
 ## Rolling Hash
 |  |
@@ -255,6 +259,7 @@
 | [0032-longest-valid-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0132-palindrome-partitioning-ii) |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
