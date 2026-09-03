@@ -6,6 +6,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0141-linked-list-cycle) |
@@ -48,6 +49,7 @@
 | [0014-longest-common-prefix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0131-palindrome-partitioning) |
@@ -109,6 +111,7 @@
 | [0039-combination-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0128-longest-consecutive-sequence) |
@@ -158,6 +161,7 @@
 | [0016-3sum-closest](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0217-contains-duplicate) |
