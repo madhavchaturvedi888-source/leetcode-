@@ -134,6 +134,7 @@
 | [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
@@ -326,19 +327,23 @@
 | [0023-merge-k-sorted-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 | [2762-continuous-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2762-continuous-subarrays) |
 ## Union-Find
 |  |
@@ -385,6 +390,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
 |  |
@@ -442,6 +448,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -474,4 +481,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0202-happy-number) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
