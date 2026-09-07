@@ -69,6 +69,7 @@
 | [0306-additive-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0306-additive-number) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -282,6 +283,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0132-palindrome-partitioning-ii) |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0516-longest-palindromic-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Doubly-Linked List
 |  |
