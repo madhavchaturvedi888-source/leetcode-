@@ -18,6 +18,7 @@
 | [0219-contains-duplicate-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0519-random-flip-matrix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0519-random-flip-matrix) |
@@ -38,6 +39,7 @@
 | [0258-add-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0282-expression-add-operators) |
 | [0384-shuffle-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0441-arranging-coins](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0445-add-two-numbers-ii) |
 | [0519-random-flip-matrix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0519-random-flip-matrix) |
@@ -134,6 +136,7 @@
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
 | [0384-shuffle-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
@@ -462,6 +465,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -491,4 +495,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
