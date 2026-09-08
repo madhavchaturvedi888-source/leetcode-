@@ -25,6 +25,7 @@
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
@@ -83,6 +84,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -164,6 +166,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -485,6 +488,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 ## Merge Sort
 |  |
 | ------- |
