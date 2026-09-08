@@ -23,6 +23,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0519-random-flip-matrix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
@@ -79,6 +80,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -113,6 +115,7 @@
 | [0234-palindrome-linked-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 | [0481-magical-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0481-magical-string) |
+| [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -339,6 +342,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2762-continuous-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
