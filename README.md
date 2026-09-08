@@ -70,6 +70,7 @@
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
