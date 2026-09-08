@@ -44,6 +44,7 @@
 | [0445-add-two-numbers-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0445-add-two-numbers-ii) |
 | [0519-random-flip-matrix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 ## String
@@ -73,6 +74,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0481-magical-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
+| [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -147,6 +149,7 @@
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
@@ -191,6 +194,7 @@
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
