@@ -147,6 +147,7 @@
 | [0260-single-number-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
+| [0300-longest-increasing-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0384-shuffle-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0414-third-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0414-third-maximum-number) |
@@ -301,6 +302,7 @@
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Doubly-Linked List
@@ -417,6 +419,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
@@ -531,4 +534,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0279-perfect-squares) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
