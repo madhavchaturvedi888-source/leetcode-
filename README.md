@@ -37,6 +37,7 @@
 | [0227-basic-calculator-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0282-expression-add-operators) |
 | [0384-shuffle-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
@@ -299,6 +300,7 @@
 | [0213-house-robber-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0279-perfect-squares) |
 | [0516-longest-palindromic-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Doubly-Linked List
@@ -449,6 +451,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0279-perfect-squares) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
@@ -520,4 +523,12 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
