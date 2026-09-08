@@ -45,6 +45,7 @@
 | [0519-random-flip-matrix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 ## String
@@ -75,6 +76,7 @@
 | [0481-magical-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0564-find-the-closest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
