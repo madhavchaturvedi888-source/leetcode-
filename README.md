@@ -27,6 +27,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
@@ -174,6 +175,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
@@ -222,6 +224,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Heap (Priority Queue)
@@ -229,6 +232,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2762-continuous-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2762-continuous-subarrays) |
 ## Bit Manipulation
@@ -365,6 +369,7 @@
 | [0219-contains-duplicate-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2762-continuous-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
@@ -457,6 +462,7 @@
 | [0179-largest-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Prefix Sum
 |  |
