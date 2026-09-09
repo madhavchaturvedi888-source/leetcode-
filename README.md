@@ -130,6 +130,7 @@
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 | [0481-magical-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -181,6 +182,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
+| [0658-find-k-closest-elements](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
@@ -229,6 +231,7 @@
 | [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Heap (Priority Queue)
@@ -238,6 +241,7 @@
 | [0239-sliding-window-maximum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2762-continuous-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2762-continuous-subarrays) |
 ## Bit Manipulation
@@ -377,6 +381,7 @@
 | [0480-sliding-window-median](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2762-continuous-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
@@ -462,6 +467,7 @@
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
 |  |
