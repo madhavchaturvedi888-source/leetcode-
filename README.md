@@ -23,6 +23,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0519-random-flip-matrix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
@@ -166,6 +167,7 @@
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -459,6 +461,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0525-contiguous-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
