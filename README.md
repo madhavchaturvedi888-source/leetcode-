@@ -35,6 +35,7 @@
 | [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0710-random-pick-with-blacklist](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0710-random-pick-with-blacklist) |
+| [0726-number-of-atoms](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0726-number-of-atoms) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -99,6 +100,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
+| [0726-number-of-atoms](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0726-number-of-atoms) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -244,6 +246,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0710-random-pick-with-blacklist](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0710-random-pick-with-blacklist) |
+| [0726-number-of-atoms](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0726-number-of-atoms) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Heap (Priority Queue)
@@ -290,6 +293,7 @@
 | [0402-remove-k-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
+| [0726-number-of-atoms](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0726-number-of-atoms) |
 | [0901-online-stock-span](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
 ## Monotonic Stack
