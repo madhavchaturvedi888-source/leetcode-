@@ -201,6 +201,7 @@
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
+| [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1584-min-cost-to-connect-all-points) |
@@ -217,6 +218,7 @@
 | [0282-expression-add-operators](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0306-additive-number) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
+| [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
 ## Design
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
+| [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -319,6 +322,7 @@
 | [0064-minimum-path-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
+| [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -629,4 +633,8 @@
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
