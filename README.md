@@ -39,6 +39,7 @@
 | [0748-shortest-completing-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0748-shortest-completing-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -65,6 +66,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0710-random-pick-with-blacklist) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
+| [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 ## String
 |  |
@@ -202,6 +204,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
 | [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
+| [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1584-min-cost-to-connect-all-points) |
@@ -219,6 +222,7 @@
 | [0306-additive-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0306-additive-number) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
+| [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 ## Design
 |  |
 | ------- |
@@ -275,6 +279,7 @@
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
+| [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -368,6 +373,7 @@
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
+| [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Doubly-Linked List
 |  |
@@ -629,6 +635,7 @@
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
+| [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 ## Meet in the Middle
 |  |
 | ------- |
