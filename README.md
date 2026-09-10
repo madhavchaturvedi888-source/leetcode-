@@ -36,6 +36,7 @@
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0710-random-pick-with-blacklist](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0710-random-pick-with-blacklist) |
 | [0726-number-of-atoms](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0726-number-of-atoms) |
+| [0748-shortest-completing-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0748-shortest-completing-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -101,6 +102,7 @@
 | [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0726-number-of-atoms) |
+| [0748-shortest-completing-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0748-shortest-completing-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
@@ -195,6 +197,7 @@
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0710-random-pick-with-blacklist](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0710-random-pick-with-blacklist) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0748-shortest-completing-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0748-shortest-completing-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
