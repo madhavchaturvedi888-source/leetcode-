@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
@@ -54,6 +55,7 @@
 | [0227-basic-calculator-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0282-expression-add-operators) |
 | [0384-shuffle-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0384-shuffle-an-array) |
@@ -176,6 +178,7 @@
 | [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0300-longest-increasing-subsequence) |
@@ -249,6 +252,7 @@
 | [0179-largest-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -278,6 +282,7 @@
 | [0078-subsets](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
@@ -502,6 +507,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
