@@ -141,6 +141,7 @@
 | [0202-happy-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0321-create-maximum-number) |
 | [0481-magical-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
@@ -182,6 +183,7 @@
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0300-longest-increasing-subsequence) |
+| [0321-create-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0321-create-maximum-number) |
 | [0384-shuffle-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0414-third-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0414-third-maximum-number) |
@@ -309,6 +311,7 @@
 | [0224-basic-calculator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
@@ -320,6 +323,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0456-132-pattern) |
 | [0901-online-stock-span](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0901-online-stock-span) |
@@ -523,6 +527,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
