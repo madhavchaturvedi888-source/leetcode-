@@ -16,6 +16,7 @@
 | [0205-isomorphic-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
@@ -172,6 +173,7 @@
 | [0217-contains-duplicate](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0283-move-zeroes) |
@@ -246,6 +248,7 @@
 | [0148-sort-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -644,4 +647,12 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
