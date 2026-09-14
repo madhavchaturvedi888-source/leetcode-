@@ -42,6 +42,7 @@
 | [0748-shortest-completing-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0748-shortest-completing-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0992-subarrays-with-k-different-integers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
@@ -217,6 +218,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
 | [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -437,6 +439,7 @@
 | [0658-find-k-closest-elements](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2762-continuous-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
@@ -669,6 +672,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
