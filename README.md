@@ -42,6 +42,7 @@
 | [0748-shortest-completing-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0748-shortest-completing-word) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0963-minimum-area-rectangle-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0963-minimum-area-rectangle-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [1001-grid-illumination](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1001-grid-illumination) |
@@ -74,6 +75,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0710-random-pick-with-blacklist) |
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
+| [0963-minimum-area-rectangle-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0963-minimum-area-rectangle-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 ## String
@@ -219,6 +221,7 @@
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
+| [0963-minimum-area-rectangle-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0963-minimum-area-rectangle-ii) |
 | [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
@@ -613,6 +616,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0149-max-points-on-a-line) |
 | [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
+| [0963-minimum-area-rectangle-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0963-minimum-area-rectangle-ii) |
 ## Euclidean Algorithm
 |  |
 | ------- |
