@@ -43,6 +43,7 @@
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0963-minimum-area-rectangle-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0963-minimum-area-rectangle-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [1001-grid-illumination](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1001-grid-illumination) |
@@ -222,6 +223,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
 | [0963-minimum-area-rectangle-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0963-minimum-area-rectangle-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
@@ -559,6 +561,7 @@
 | [0525-contiguous-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
