@@ -48,6 +48,7 @@
 | [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [1001-grid-illumination](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1001-grid-illumination) |
 | [1048-longest-string-chain](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -79,6 +80,7 @@
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0963-minimum-area-rectangle-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0963-minimum-area-rectangle-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
+| [1248-count-number-of-nice-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 ## String
 |  |
@@ -233,6 +235,7 @@
 | [1001-grid-illumination](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1001-grid-illumination) |
 | [1019-next-greater-node-in-linked-list](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1584-min-cost-to-connect-all-points) |
@@ -457,6 +460,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2762-continuous-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
@@ -568,6 +572,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
