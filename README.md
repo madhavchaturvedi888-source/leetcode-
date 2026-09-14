@@ -208,6 +208,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -321,6 +322,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0498-diagonal-traverse) |
 | [0946-validate-stack-sequences](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0946-validate-stack-sequences) |
 ## Number Theory
 |  |
@@ -367,6 +369,7 @@
 | [0064-minimum-path-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0498-diagonal-traverse) |
 | [0980-unique-paths-iii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0980-unique-paths-iii) |
 ## Rolling Hash
 |  |
