@@ -584,6 +584,7 @@
 | [0100-same-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
@@ -592,6 +593,7 @@
 | [0100-same-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
 |  |
@@ -606,6 +608,7 @@
 | [0100-same-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Lifting
 |  |
@@ -619,6 +622,7 @@
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Trie
 |  |
