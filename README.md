@@ -19,6 +19,7 @@
 | [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
@@ -104,6 +105,7 @@
 | [0282-expression-add-operators](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0306-additive-number) |
+| [0336-palindrome-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
@@ -198,6 +200,7 @@
 | [0284-peeking-iterator](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0321-create-maximum-number) |
+| [0336-palindrome-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0336-palindrome-pairs) |
 | [0384-shuffle-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0414-third-maximum-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0414-third-maximum-number) |
@@ -384,6 +387,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0336-palindrome-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Manacher
 |  |
@@ -628,6 +632,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0336-palindrome-pairs) |
 | [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 ## Merge Sort
 |  |
