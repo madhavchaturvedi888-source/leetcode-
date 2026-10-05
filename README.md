@@ -89,6 +89,7 @@
 | [0012-integer-to-roman](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0076-minimum-window-substring) |
