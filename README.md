@@ -121,6 +121,7 @@
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0726-number-of-atoms) |
 | [0748-shortest-completing-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0748-shortest-completing-word) |
+| [0796-rotate-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
@@ -383,6 +384,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
