@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0336-palindrome-pairs) |
+| [0383-ransom-note](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0391-perfect-rectangle) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
@@ -107,6 +108,7 @@
 | [0290-word-pattern](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0306-additive-number) |
 | [0336-palindrome-pairs](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0336-palindrome-pairs) |
+| [0383-ransom-note](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0409-longest-palindrome) |
@@ -737,6 +739,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
