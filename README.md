@@ -114,6 +114,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0481-magical-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0539-minimum-time-difference](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
