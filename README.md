@@ -119,6 +119,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [0648-replace-words](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0648-replace-words) |
 | [0691-stickers-to-spell-word](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0691-stickers-to-spell-word) |
 | [0726-number-of-atoms](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0726-number-of-atoms) |
@@ -595,6 +596,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
@@ -607,6 +609,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
@@ -626,6 +629,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Lifting
