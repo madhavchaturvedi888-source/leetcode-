@@ -604,6 +604,7 @@
 | [0112-path-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
@@ -637,6 +638,7 @@
 | [0112-path-sum](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0563-binary-tree-tilt](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
@@ -751,4 +753,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0229-majority-element-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
