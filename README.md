@@ -305,6 +305,7 @@
 | [0726-number-of-atoms](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0726-number-of-atoms) |
 | [0767-reorganize-string](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1048-longest-string-chain) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Heap (Priority Queue)
@@ -610,6 +611,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -624,6 +626,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -646,6 +649,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -761,4 +765,5 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
