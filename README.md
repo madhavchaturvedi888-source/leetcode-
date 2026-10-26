@@ -435,6 +435,7 @@
 | [0805-split-array-with-same-average](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0805-split-array-with-same-average) |
 | [0996-number-of-squareful-arrays](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0996-number-of-squareful-arrays) |
 | [1048-longest-string-chain](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1048-longest-string-chain) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Doubly-Linked List
 |  |
@@ -612,6 +613,7 @@
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -627,6 +629,7 @@
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -650,6 +653,7 @@
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -666,6 +670,7 @@
 | [0563-binary-tree-tilt](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -766,4 +771,5 @@
 | [0450-delete-node-in-a-bst](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/madhavchaturvedi888-source/leetcode-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
